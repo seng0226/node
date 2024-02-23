@@ -4,7 +4,7 @@ const http = require('http');
 const cors = require('cors')
 const path = require('path');
 const helmet = require("helmet")
-const port = 8060;
+const port = 8066;
 
 // Use the whole root as static files to be able to serve the html file and
 // the build folder
